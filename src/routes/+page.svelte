@@ -9,5 +9,6 @@
 			<div class="text-3xl">Svelte & Tailwind Demo</div>
 		</div>
 	</div>
+	<!--This is a comment-->
 	<p>Visit <a href="https://svelte.dev">svelte.dev</a> to read the documentation</p>
 </div>
